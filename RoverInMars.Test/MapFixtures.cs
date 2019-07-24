@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Xunit;
+﻿using Xunit;
 using FluentAssertions;
 using MarsInRover;
 
@@ -16,10 +13,17 @@ namespace RoverInMars.Test
             mars.mapSize.x.Should().Be(15);
         }
         [Fact]
-        public void Test_to_check_max_y_capacity()
+        public void Test_to_check_default_max_y_capacity()
         {
             Mars mars = new Mars();
             mars.mapSize.y.Should().Be(10);
+
+        }
+         [Fact]
+        public void Test_to_check_default_max_x_capacity()
+        {
+            Mars mars = new Mars();
+            mars.mapSize.x.Should().Be(10);
         }
     }
 

@@ -11,7 +11,7 @@ namespace MarsInRover
 
         public Mars()
         {
-            mapSize = new Coordinate() { x = 10, y = 10 };
+            mapSize=new Coordinate() { x=10,y=10};
         }
 
         public Mars(Coordinate mapSize)

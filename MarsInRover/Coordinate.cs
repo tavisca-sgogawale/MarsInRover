@@ -6,7 +6,7 @@ namespace MarsInRover
 {
     public class Coordinate
     {
-        public object x { get; set; }
+        public int x { get; set; }
         public int y { get; set; }
     }
 }

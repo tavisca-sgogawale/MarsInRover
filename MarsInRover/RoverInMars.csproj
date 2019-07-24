@@ -6,4 +6,8 @@
     <RootNamespace>MarsInRover</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="MoveForward.cs" />
+  </ItemGroup>
+
 </Project>
