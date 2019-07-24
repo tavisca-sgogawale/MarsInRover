@@ -4,7 +4,8 @@ using System.Text;
 
 namespace MarsInRover
 {
-    interface IMap
+    public interface IMap
     {
+        //public Coordinate mapSize = new Coordinate();
     }
 }

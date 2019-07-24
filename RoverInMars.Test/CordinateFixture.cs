@@ -1,7 +1,6 @@
 using System;
 using MarsInRover;
 using FluentAssertions;
-
 using Xunit;
 
 namespace RoverInMars.Test

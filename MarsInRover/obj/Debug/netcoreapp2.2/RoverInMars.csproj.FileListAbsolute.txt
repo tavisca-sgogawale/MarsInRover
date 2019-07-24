@@ -8,3 +8,4 @@ c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\
 c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.AssemblyInfo.cs
 c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.dll
 c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.pdb
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.csprojResolveAssemblyReference.cache
