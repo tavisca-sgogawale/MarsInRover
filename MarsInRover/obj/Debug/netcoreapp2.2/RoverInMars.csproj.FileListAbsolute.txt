@@ -1,0 +1,10 @@
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\bin\Debug\netcoreapp2.2\RoverInMars.deps.json
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\bin\Debug\netcoreapp2.2\RoverInMars.runtimeconfig.json
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\bin\Debug\netcoreapp2.2\RoverInMars.runtimeconfig.dev.json
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\bin\Debug\netcoreapp2.2\RoverInMars.dll
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\bin\Debug\netcoreapp2.2\RoverInMars.pdb
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.csproj.CoreCompileInputs.cache
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.AssemblyInfoInputs.cache
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.AssemblyInfo.cs
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.dll
+c:\users\sgogawale\source\repos\MarsInRover\MarsInRover\obj\Debug\netcoreapp2.2\RoverInMars.pdb
